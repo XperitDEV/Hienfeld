@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Hienfeld_dev",
+        "request": "launch",
+        "type": "al",
+        "environmentType": "Sandbox",
+        "environmentName": "Hienfeld_dev",
+        "startupObjectId": 440,
+        "startupObjectType": "Page",
+        "breakOnError": "All",
+        "schemaUpdateMode": "ForceSync",
+        "launchBrowser": true,
+        "enableLongRunningSqlStatements": true,
+        "enableSqlInformationDebugger": true,
+        "tenant": "6ac1f113-1c9a-4366-a292-f3d04b1aa5ae"
+      }    
+    ]
+  }
