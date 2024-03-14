@@ -15,6 +15,36 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Table GS Custom Setup - Field Primary Key - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3589118635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Segment</source>
+          <target state="translated">Klant Segment</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HF Customer Segment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3589118635 - Method 1438085984 - NamedType 3600589909" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hello</source>
+          <target state="translated">Hallo</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HF Customer Segment - Method TestFunction - NamedType HelloMsg</note>
+        </trans-unit>
+        <trans-unit id="Table 3589118635 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HF Customer Segment - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3589118635 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Omschrijving</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HF Customer Segment - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3589118635 - Field 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target state="translated">Omschrijving 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table HF Customer Segment - Field Description 2 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3089737836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Custom Setup</source>
           <target state="translated">Klantinstellingen</target>
@@ -27,65 +57,101 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page GS Custom Setup - Control General - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 3449853049 - Control 1209688734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
-          <source>Mailing</source>
-          <target state="translated">Postadres</target>
+        <trans-unit id="Page 3284545503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Segment Card</source>
+          <target state="translated">Kaart voor klantsegmenten</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GS Company Information - Control GS_Mailing - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HF Customer Segment Card - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 1458116349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="Page 3284545503 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Algemeen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HF Customer Segment Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3284545503 - Action 2326562328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List of customers</source>
+          <target state="translated">Lijst van klanten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HF Customer Segment Card - Action ListOfCustomers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3656364949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Segment List</source>
+          <target state="translated">Klantensegmentoverzicht</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HF Customer Segment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3656364949 - Action 2326562328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List of customers</source>
+          <target state="translated">Lijst van klanten</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HF Customer Segment List - Action ListOfCustomers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2469883735 - Control 1209688734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Mailing</source>
+          <target state="translated">Post</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension HF Company Information - Control GS_Mailing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2469883735 - Field 406758779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Address</source>
           <target state="translated">Adres</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Address - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Address - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 1152722331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 1580769341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Address 2</source>
           <target state="translated">Adres 2</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Address 2 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Address 2 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 1802695878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 2875218036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>City</source>
           <target state="translated">Plaats</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing City - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing City - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 4111425631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 2794894657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Contact</source>
-          <target state="translated">Contactpersoon</target>
+          <target state="needs-l10n">Contact</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Contact - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Contact - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 2079441102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 2649290588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Country/Region Code</source>
-          <target state="translated">Land/regio code</target>
+          <target state="needs-l10n">Land/regio code</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Country/Region - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Country/Region - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 3927992953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 2882123943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>County</source>
           <target state="translated">Provincie</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing County - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing County - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 2764116374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 2513882660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Name</source>
           <target state="translated">Naam</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Name - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Name - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 2215916804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 894357974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Name 2</source>
           <target state="translated">Naam 2</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Name 2 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Name 2 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 3449853049 - Field 3041994268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+        <trans-unit id="TableExtension 2469883735 - Field 179050878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
           <source>Post Code</source>
           <target state="translated">Postcode</target>
           <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GS Company Information - Field GS Mailing Post Code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Company Information - Field HF Mailing Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 127875654 - Field 590801456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Segment</source>
+          <target state="translated">Klant Segment</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension HF Customer - Field HF Customer Segment Code - Property Caption</note>
         </trans-unit>
       </group>
     </body>
