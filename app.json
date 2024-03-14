@@ -1,0 +1,30 @@
+{
+  "id": "60fb4516-47a2-4090-82b1-3310dd8df07d",
+  "name": "Hienfeld",
+  "publisher": "Xperit",
+  "version": "23.24.03.001",
+  "brief": "",
+  "description": "Hienfeld B.V. Base App",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": ["NoImplicitWith","TranslationFile"]
+}
