@@ -10,11 +10,26 @@
         "startupObjectId": 440,
         "startupObjectType": "Page",
         "breakOnError": "All",
-        "schemaUpdateMode": "ForceSync",
+        "schemaUpdateMode": "Synchronize",
         "launchBrowser": true,
         "enableLongRunningSqlStatements": true,
         "enableSqlInformationDebugger": true,
         "tenant": "6ac1f113-1c9a-4366-a292-f3d04b1aa5ae"
-      }    
+      } ,
+      {
+        "name": "Hienfeld_test",
+        "request": "launch",
+        "type": "al",
+        "environmentType": "Sandbox",
+        "environmentName": "Hienfeld_Test",
+        "startupObjectId": 440,
+        "startupObjectType": "Page",
+        "breakOnError": "All",
+        "schemaUpdateMode": "Synchronize",
+        "launchBrowser": true,
+        "enableLongRunningSqlStatements": true,
+        "enableSqlInformationDebugger": true,
+        "tenant": "6ac1f113-1c9a-4366-a292-f3d04b1aa5ae"
+      }          
     ]
   }
