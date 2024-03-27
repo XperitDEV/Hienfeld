@@ -3,6 +3,51 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Hienfeld">
     <body>
       <group id="body">
+        <trans-unit id="Table 1987164817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Creation Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 617636343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ass.Ordernr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field Ass.Ordernr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 1112219086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ass.Polisnr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field Ass.Polisnr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 505687230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ass.Stuknr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field Ass.Stuknr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 2082097821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ass.Stuksoort</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field Ass.Stuksoort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 275299387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ass.Volgnr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field Ass.Volgnr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 2998033094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JOBID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field JOBID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 215310393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KEY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field KEY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1987164817 - Field 1165969121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Field LineNo - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3089737836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Custom Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
