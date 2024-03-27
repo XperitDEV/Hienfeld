@@ -1,7 +1,7 @@
 {
   "id": "60fb4516-47a2-4090-82b1-3310dd8df07d",
   "name": "Hienfeld",
-  "publisher": "Xperit",
+  "publisher": "Hienfeld B.V.",
   "version": "23.24.03.002",
   "brief": "",
   "description": "Hienfeld B.V. Base App",
@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50000,
-      "to": 50149
+      "to": 59999
     }
   ],
   "resourceExposurePolicy": {
