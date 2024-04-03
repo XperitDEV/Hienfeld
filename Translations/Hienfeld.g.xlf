@@ -58,51 +58,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table GS Custom Setup - Field Primary Key - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1987164817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Creation Queue</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 617636343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Ass.Ordernr field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Ordernr - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 1112219086 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Ass.Polisnr field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Polisnr - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 505687230 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Ass.Stuknr field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Stuknr - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 2082097821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Ass.Stuksoort field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Stuksoort - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 275299387 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Ass.Volgnr field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Volgnr - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 2998033094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the JOBID field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control JOBID - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 215310393 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the KEY field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control KEY - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1987164817 - Control 1165969121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the LineNo field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control LineNo - Property ToolTip</note>
-        </trans-unit>
         <trans-unit id="Page 3089737836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Custom Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -112,6 +67,36 @@
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page GS Custom Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1353940461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renseigneren</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Renseigneren - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1353940461 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Renseigneren - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1353940461 - Control 942171326 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Controleer of het versienummer al bestaat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Renseigneren - Control version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 194597626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renseigneren Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Renseigneren Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 194597626 - Control 1859177098 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the productId field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Renseigneren Lines - Control productId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3591432123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renseigneren Brief</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Renseigneren Brief - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 2469883735 - Control 1209688734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
           <source>Mailing</source>

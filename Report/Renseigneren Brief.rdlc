@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="productId_Renseignerenregels">
+          <DataField>productId_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="productnummer_Renseignerenregels">
+          <DataField>productnummer_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Geexporteerd_Renseignerenregels">
+          <DataField>Geexporteerd_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="label_Renseignerenregels">
+          <DataField>label_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="BerichtRun_Renseignerenregels">
+          <DataField>BerichtRun_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="indicatieKwaliteit_Renseignerenregels">
+          <DataField>indicatieKwaliteit_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="arbOngVerzBet_Renseignerenregels">
+          <DataField>arbOngVerzBet_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="arbOngVerzBet_RenseignerenregelsFormat">
+          <DataField>arbOngVerzBet_RenseignerenregelsFormat</DataField>
+        </Field>
+        <Field Name="arbOngVerzTerugbet_Renseignerenregels">
+          <DataField>arbOngVerzTerugbet_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="arbOngVerzTerugbet_RenseignerenregelsFormat">
+          <DataField>arbOngVerzTerugbet_RenseignerenregelsFormat</DataField>
+        </Field>
+        <Field Name="arbOngVerzVersch_Renseignerenregels">
+          <DataField>arbOngVerzVersch_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="arbOngVerzVersch_RenseignerenregelsFormat">
+          <DataField>arbOngVerzVersch_RenseignerenregelsFormat</DataField>
+        </Field>
+        <Field Name="bSN_Renseignerenregels">
+          <DataField>bSN_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="voorletters_Renseignerenregels">
+          <DataField>voorletters_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="voorvoegsels_Renseignerenregels">
+          <DataField>voorvoegsels_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="achternaam_Renseignerenregels">
+          <DataField>achternaam_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="datum_Renseignerenregels">
+          <DataField>datum_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="straat_Renseignerenregels">
+          <DataField>straat_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="huisnummer_Renseignerenregels">
+          <DataField>huisnummer_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="huisnummerToev_Renseignerenregels">
+          <DataField>huisnummerToev_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="postcode_Renseignerenregels">
+          <DataField>postcode_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="plaats_Renseignerenregels">
+          <DataField>plaats_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="land_Renseignerenregels">
+          <DataField>land_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Nrreeks_Renseignerenregels">
+          <DataField>Nrreeks_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Ordernummer_Renseignerenregels">
+          <DataField>Ordernummer_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Polisvolgnr_Renseignerenregels">
+          <DataField>Polisvolgnr_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Boekingsdatum_Renseignerenregels">
+          <DataField>Boekingsdatum_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Klantnummer_Renseignerenregels">
+          <DataField>Klantnummer_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Betaalwijze_Renseignerenregels">
+          <DataField>Betaalwijze_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Makelaar_Renseignerenregels">
+          <DataField>Makelaar_Renseignerenregels</DataField>
+        </Field>
+        <Field Name="Postadres1">
+          <DataField>Postadres1</DataField>
+        </Field>
+        <Field Name="Postadres2">
+          <DataField>Postadres2</DataField>
+        </Field>
+        <Field Name="Postadres3">
+          <DataField>Postadres3</DataField>
+        </Field>
+        <Field Name="Postadres4">
+          <DataField>Postadres4</DataField>
+        </Field>
+        <Field Name="Postadres5">
+          <DataField>Postadres5</DataField>
+        </Field>
+        <Field Name="Postadres6">
+          <DataField>Postadres6</DataField>
+        </Field>
+        <Field Name="Postadres7">
+          <DataField>Postadres7</DataField>
+        </Field>
+        <Field Name="NaamVerzNemer">
+          <DataField>NaamVerzNemer</DataField>
+        </Field>
+        <Field Name="NaamMakelaar">
+          <DataField>NaamMakelaar</DataField>
+        </Field>
+        <Field Name="NaamPost">
+          <DataField>NaamPost</DataField>
+        </Field>
+        <Field Name="NaamAanhef">
+          <DataField>NaamAanhef</DataField>
+        </Field>
+        <Field Name="BerichtRun_Renseigneren">
+          <DataField>BerichtRun_Renseigneren</DataField>
+        </Field>
+        <Field Name="berichttype_Renseigneren">
+          <DataField>berichttype_Renseigneren</DataField>
+        </Field>
+        <Field Name="TODAY">
+          <DataField>TODAY</DataField>
+        </Field>
+        <Field Name="belastingjaar_Renseigneren">
+          <DataField>belastingjaar_Renseigneren</DataField>
+        </Field>
+        <Field Name="aanleveringnummer_Renseigneren">
+          <DataField>aanleveringnummer_Renseigneren</DataField>
+        </Field>
+        <Field Name="DatumAamaak_Renseigneren">
+          <DataField>DatumAamaak_Renseigneren</DataField>
+        </Field>
+        <Field Name="TijdAanmaak_Renseigneren">
+          <DataField>TijdAanmaak_Renseigneren</DataField>
+        </Field>
+        <Field Name="Geexporteerdop_Renseigneren">
+          <DataField>Geexporteerdop_Renseigneren</DataField>
+        </Field>
+        <Field Name="Volgnummer_Renseigneren">
+          <DataField>Volgnummer_Renseigneren</DataField>
+        </Field>
+        <Field Name="relNr_Renseigneren">
+          <DataField>relNr_Renseigneren</DataField>
+        </Field>
+        <Field Name="gebrSwPakket_Renseigneren">
+          <DataField>gebrSwPakket_Renseigneren</DataField>
+        </Field>
+        <Field Name="naamBerichtgever_Renseigneren">
+          <DataField>naamBerichtgever_Renseigneren</DataField>
+        </Field>
+        <Field Name="rSINBerichtgever_Renseigneren">
+          <DataField>rSINBerichtgever_Renseigneren</DataField>
+        </Field>
+        <Field Name="naamBron_Renseigneren">
+          <DataField>naamBron_Renseigneren</DataField>
+        </Field>
+        <Field Name="rSINBron_Renseigneren">
+          <DataField>rSINBron_Renseigneren</DataField>
+        </Field>
+        <Field Name="straat_Renseigneren">
+          <DataField>straat_Renseigneren</DataField>
+        </Field>
+        <Field Name="huisnummer_Renseigneren">
+          <DataField>huisnummer_Renseigneren</DataField>
+        </Field>
+        <Field Name="postcode_Renseigneren">
+          <DataField>postcode_Renseigneren</DataField>
+        </Field>
+        <Field Name="plaats_Renseigneren">
+          <DataField>plaats_Renseigneren</DataField>
+        </Field>
+        <Field Name="land_Renseigneren">
+          <DataField>land_Renseigneren</DataField>
+        </Field>
+        <Field Name="TotaalBetaald_Renseigneren">
+          <DataField>TotaalBetaald_Renseigneren</DataField>
+        </Field>
+        <Field Name="TotaalBetaald_RenseignerenFormat">
+          <DataField>TotaalBetaald_RenseignerenFormat</DataField>
+        </Field>
+        <Field Name="TotaalGeboekt_Renseigneren">
+          <DataField>TotaalGeboekt_Renseigneren</DataField>
+        </Field>
+        <Field Name="TotaalGeboekt_RenseignerenFormat">
+          <DataField>TotaalGeboekt_RenseignerenFormat</DataField>
+        </Field>
+        <Field Name="TotaalTerug_Renseigneren">
+          <DataField>TotaalTerug_Renseigneren</DataField>
+        </Field>
+        <Field Name="TotaalTerug_RenseignerenFormat">
+          <DataField>TotaalTerug_RenseignerenFormat</DataField>
+        </Field>
+        <Field Name="Nrreeks_Renseigneren">
+          <DataField>Nrreeks_Renseigneren</DataField>
+        </Field>
+        <Field Name="TagName_Renseigneren">
+          <DataField>TagName_Renseigneren</DataField>
+        </Field>
+        <Field Name="xmlBerichtRun_Renseigneren">
+          <DataField>xmlBerichtRun_Renseigneren</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
