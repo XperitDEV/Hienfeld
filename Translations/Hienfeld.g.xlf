@@ -4,7 +4,7 @@
     <body>
       <group id="body">
         <trans-unit id="Table 1987164817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Document Creation Queue</source>
+          <source>Document Creation Queue1</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Document Creation Queue - Property Caption</note>
         </trans-unit>
@@ -57,6 +57,361 @@
           <source>Primary Key</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table GS Custom Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renseigneren</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1721287278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>aanleveringnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field aanleveringnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3425518076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>aanmaakmoment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field aanmaakmoment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3425660215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>belastingjaar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field belastingjaar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2855170478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BerichtRun</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field BerichtRun - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3832638877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>berichttype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field berichttype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2415182849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Added</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field DatumAamaak - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2756478739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datumfilter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Datumfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1620739746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Datumtot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2215171460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Datumvan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1127315538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gebrSwPakket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field gebrSwPakket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 718273561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geexporteerd op</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Geexporteerd op - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 4040754109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>huisnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field huisnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1862100345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>land</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field land - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1540066125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>naamBerichtgever</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field naamBerichtgever - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2079194022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>naamBron</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field naamBron - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3072323372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr.reeks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Nr.reeks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1307972317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>plaats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field plaats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 2769439735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>postcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field postcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 560591241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>relNr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field relNr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3614799410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>rSINBerichtgever</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field rSINBerichtgever - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 748162761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>rSINBron</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field rSINBron - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 638162859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>straat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field straat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1716525935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TagName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field TagName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1385116813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Added</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field TijdAanmaak - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 3619343780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotaalBetaald</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field TotaalBetaald - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 436480962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotaalGeboekt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field TotaalGeboekt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 4132918766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotaalTerug</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field TotaalTerug - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 942171326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 811539434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Volgnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field Volgnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1353940461 - Field 1406327949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>xmlBerichtRun</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseigneren - Field xmlBerichtRun - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Renseignerenregels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1255967094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>achternaam</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field achternaam - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 3209935145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>arbOngVerzBet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field arbOngVerzBet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1682293650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>arbOngVerzTerugbet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field arbOngVerzTerugbet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2091098487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>arbOngVerzVersch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field arbOngVerzVersch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2855170478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BerichtRun</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field BerichtRun - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 4171590064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Betaalwijze</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Betaalwijze - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 3621501923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boekingsdatum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Boekingsdatum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1938937873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bSN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field bSN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2839155707 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>datum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field datum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1737597468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geexporteerd</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Geexporteerd - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 4040754109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>huisnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field huisnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1209889277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>huisnummerToev</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field huisnummerToev - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1142543208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>indicatieKwaliteit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field indicatieKwaliteit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 4224288412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Klantnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Klantnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2592457002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>label</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field label - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1862100345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>land</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field land - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1856766336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Makelaar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Makelaar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 3072323372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr.reeks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Nr.reeks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2782128918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ordernummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Ordernummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1307972317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>plaats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field plaats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2182618497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Polisvolgnr</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field Polisvolgnr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2769439735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>postcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field postcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1607019847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PremieBetaald</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field PremieBetaald - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 2126054669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PremieGeboekt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field PremieGeboekt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 3495666864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PremieTerugbet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field PremieTerugbet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1859177098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>productId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field productId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 4253058521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>productnummer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field productnummer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 638162859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>straat</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field straat - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 3076811067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>voorletters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field voorletters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 128737355 - Field 1209425786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>voorvoegsels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Renseignerenregels - Field voorvoegsels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Creation Queue1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 617636343 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ass.Ordernr field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Ordernr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 1112219086 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ass.Polisnr field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Polisnr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 505687230 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ass.Stuknr field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Stuknr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 2082097821 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ass.Stuksoort field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Stuksoort - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 275299387 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ass.Volgnr field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control Ass.Volgnr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 2998033094 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the JOBID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control JOBID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 215310393 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the KEY field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control KEY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1987164817 - Control 1165969121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LineNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Document Creation Queue - Control LineNo - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3089737836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Custom Setup</source>
