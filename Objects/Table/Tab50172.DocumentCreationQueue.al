@@ -1,6 +1,6 @@
 table 50172 "Document Creation Queue"
 {
-    Caption = 'Document Creation Queue';
+    Caption = 'Document Creation Queue1';
     DataClassification = ToBeClassified;
 
     fields

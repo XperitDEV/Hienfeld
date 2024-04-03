@@ -1,7 +1,7 @@
 page 50473 "Document Creation Queue"
 {
     ApplicationArea = All;
-    Caption = 'Document Creation Queue';
+    Caption = 'Document Creation Queue1';
     PageType = List;
     SourceTable = 50172;
     UsageCategory = Administration;
