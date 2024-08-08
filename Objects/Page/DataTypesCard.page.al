@@ -35,6 +35,13 @@ page 50110 DataTypesCard
                     Caption = 'Result';
                     Editable = false;
                 }
+                field(ResultSom; ResultSom)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'The result som of the operation.';
+                    Caption = 'Result Som';
+                    Editable = false;
+                }
 
             }
         }
@@ -54,6 +61,7 @@ page 50110 DataTypesCard
                 trigger OnAction()
                 begin
                     Result := Value1 > Value2;
+                    ResultSom := Value1 + Value2;
                 end;
             }
         }
@@ -63,4 +71,5 @@ page 50110 DataTypesCard
         Value1: Integer;
         Value2: Integer;
         Result: Boolean;
+        ResultSom: integer;
 }
